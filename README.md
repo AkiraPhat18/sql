@@ -1,1 +1,1 @@
-# sql
+# sql cơ bản
