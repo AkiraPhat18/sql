@@ -1,3 +1,5 @@
+create database sqldb
+
 create table GiaoVien (
 	MaGV nvarchar(10),
 	Name nvarchar(100)
