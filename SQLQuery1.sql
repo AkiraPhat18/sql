@@ -1,4 +1,6 @@
-create database sqldb
+//create database sqldb
+
+use sqldb
 
 create table GiaoVien (
 	MaGV nvarchar(10),
